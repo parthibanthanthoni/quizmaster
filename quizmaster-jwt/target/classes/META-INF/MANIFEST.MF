@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-security-jwt-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: parthiban.t
+Implementation-Vendor-Id: com.quizmaster
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-security-jwt-example
+Created-By: Maven Integration for Eclipse
+
